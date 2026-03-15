@@ -1,6 +1,8 @@
 biosteam
 thermosteam
 pandas
-streamlit
+streamlit>=1.30.0
+plotly
 google-generativeai
 graphviz
+altair<5
